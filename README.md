@@ -26,8 +26,8 @@ Utilizing wireframes I was able to figure out what the true MVP of the Wack Jack
 ###Technology Used:
 
     Codepen.io 
-# ![](https://codepen.io/sir_massey/pen/MbzRvb) - 1st version - Jack keyframes
-# ![](https://codepen.io/sir_massey/pen/aBXNGQ) - Final working Game
+    https://codepen.io/sir_massey/pen/MbzRvb - 1st version - Jack keyframes
+    https://codepen.io/sir_massey/pen/aBXNGQ - Final working Game
     Jacks perpetual movement: keyframes (CSS animation);
     Jacks player initiated movement: JS document.onkeydown;
 
