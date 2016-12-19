@@ -38,7 +38,7 @@ I wasn't able to add the alert saying when the game is over either through jack 
 
 ### YOU PICK JACK:
 
-Choose from one of the below lovely creatures who Jack will be in the final game:
+Choose from one of the below lovely creatures who Jack will be in the final game and add your choice as an issue: subject: "I've seen Jack!"
 
 ![](https://s-media-cache-ak0.pinimg.com/236x/79/9f/32/799f325fb9a035ea8fa5dc17bc15d82f.jpg)
 ![](http://68.media.tumblr.com/tumblr_ls1x0gCqvS1qikgdeo1_1280.png)
